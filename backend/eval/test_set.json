@@ -1,0 +1,5 @@
+[
+  {"question": "Replace with a question answered in your PDF", "ground_truth": "The correct answer in your own words", "doc": "yourfile.pdf", "page": 1},
+  {"question": "Another real question from your PDF", "ground_truth": "Its correct answer", "doc": "yourfile.pdf", "page": 3},
+  {"question": "What is the capital of Mars? (not in any PDF)", "ground_truth": "I couldn't find this in the documents."}
+]
