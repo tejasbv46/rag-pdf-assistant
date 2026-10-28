@@ -1,0 +1,7 @@
+node_modules/
+dist/
+__pycache__/
+.env
+venv/
+backend/data/
+backend/eval/outputs.json
